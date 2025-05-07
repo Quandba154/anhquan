@@ -51,3 +51,4 @@ class MeshSineMaterial extends THREE.MeshBasicMaterial {
 }
 
 extend({ MeshSineMaterial, BentPlaneGeometry });
+//
